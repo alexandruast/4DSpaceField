@@ -30,13 +30,16 @@
 <p><strong>H1: Stationary Field Substrate:</strong> The universe is permeated by a stationary, four-dimensional field that serves as the substrate for all physical phenomena. This field is uniform, isotropic, and fundamentally underlies both spacetime fabric and particle manifestations.</p>
 </li>
 <li>
-<p><strong>H2: Matter and Energy Interaction:</strong> Matter’s interaction with the 4D field, conceptualized as inward movement at <em>c</em>, is the mechanism through which mass is converted to energy, and vice versa, offering a new perspective on mass-energy equivalence.</p>
+<p><strong>H2: Matter and Energy Interaction:</strong> Matter’s interaction with the 4D field, conceptualized as inward movement at the speed of light, is the mechanism through which mass is converted to energy, and vice versa, offering a new perspective on mass-energy equivalence.</p>
 </li>
 <li>
 <p><strong>H3: Forces as Field Excitations:</strong> Gravitational and electromagnetic forces are emergent properties arising from specific types of excitations within the 4D field, caused by the presence and behavior of mass and charge, respectively.</p>
 </li>
 <li>
 <p><strong>H4: Quantum Phenomena Explained:</strong> Quantum mechanical phenomena, including entanglement and the behavior of wave-functions, are explained by the intrinsic properties of the 4D field and its interaction with particles, eliminating the need for non-locality or observer-dependent collapse.</p>
+</li>
+<li>
+<p><strong>H5: Gravity as a Manifestation of Field Geometry:</strong> Gravity emerges from the geometry or configuration of the 4D field, influenced by mass. This geometric influence on the field mimics the curvature of spacetime in General Relativity but is derived from the field’s inherent properties, leading to gravitational attraction as a natural outcome of the field’s state.</p>
 </li>
 </ul>
 <h4 id="objectives">Objectives</h4>
