@@ -3,8 +3,7 @@
 
 ---
 
-<h3 id="core-hypotheses-and-objectives">Core Hypotheses and Objectives</h3>
-<p><strong>Title:</strong> A Unified 4D Space Field Model for Gravitational and Electromagnetic Interactions</p>
+<h3 id="a-unified-4d-space-field-model-for-gravitational-and-electromagnetic-interactions">A Unified 4D Space Field Model for Gravitational and Electromagnetic Interactions</h3>
 <p><strong>Author:</strong> Alexandru Ast</p>
 <p><strong>Abstract:</strong> This paper introduces the 4D space field model, a novel theoretical framework aimed at unifying the descriptions of gravity and electromagnetism, reconciling aspects of quantum mechanics with general relativity, and offering new insights into the uniformity of fundamental particle properties. By positing a stationary four-dimensional field as the fundamental substrate of the universe, through which matter interacts via inward movement at the speed of light, this model proposes a unique perspective on mass-energy equivalence, the nature of forces, and the quantum behavior of particles.</p>
 <h4 id="introduction">Introduction</h4>
