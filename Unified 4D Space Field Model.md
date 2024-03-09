@@ -5,7 +5,8 @@
 
 <h3 id="a-unified-4d-space-field-model-for-gravitational-and-electromagnetic-interactions">A Unified 4D Space Field Model for Gravitational and Electromagnetic Interactions</h3>
 <p><strong>Author:</strong> Alexandru Ast</p>
-<p><strong>Abstract:</strong> This paper introduces the 4D space field model, a novel theoretical framework aimed at unifying the descriptions of gravity and electromagnetism, reconciling aspects of quantum mechanics with general relativity, and offering new insights into the uniformity of fundamental particle properties. By positing a stationary four-dimensional field as the fundamental substrate of the universe, through which matter interacts via inward movement at the speed of light, this model proposes a unique perspective on mass-energy equivalence, the nature of forces, and the quantum behavior of particles.</p>
+<p><strong>Abstract:</strong> This paper introduces the 4D space field model, a novel theoretical framework aimed at unifying the descriptions of gravity and electromagnetism, reconciling aspects of quantum mechanics with general relativity, and offering new insights into the uniformity of fundamental particle properties. By positing a stationary four-dimensional field as the fundamental substrate of the universe, through which matter interacts via inward movement at <em>c</em>, this model proposes a unique perspective on mass-energy equivalence, the nature of forces, and the quantum behavior of particles.</p>
+<p>In this model, the concept of the speed of light <em>c</em> assumes a pivotal but redefined role, distinct from its traditional depiction as the ultimate speed through spacetime. Here, <em>c</em> is reinterpreted as a parameter describing the rate of interaction within the 4D space field, independent of its conventional association with light. This redefinition underlines a fundamental shift in perspective: <em>c</em> represents a universal limit for the interaction rate or information transfer within the field, influencing the conversion between mass and energy and dictating the dynamics of field excitations. This approach allows us to decouple <em>c</em> from its exclusive linkage to electromagnetic phenomena, embedding it more deeply into the fabric of physical laws as a cornerstone of the field’s inherent properties.</p>
 <h4 id="introduction">Introduction</h4>
 <p>Contemporary physics offers incredibly precise and powerful theories for describing the forces of nature and the behavior of matter down to the smallest scales. However, significant challenges remain, including the reconciliation of general relativity with quantum mechanics, the explanation of dark matter and dark energy, and the unification of the fundamental forces. This paper introduces the 4D space field model as a hypothesis aimed at addressing these challenges. The core objectives of this research are:</p>
 <ol>
@@ -13,7 +14,7 @@
 <p><strong>To Propose a Unified Framework:</strong> Present a unified theoretical model that incorporates gravity, electromagnetism, and quantum phenomena as manifestations of interactions within a stationary 4D space field.</p>
 </li>
 <li>
-<p><strong>To Reinterpret Mass-Energy Equivalence:</strong> Offer a novel interpretation of (E=mc^2) within this framework, where mass interacting with the 4D field at the speed of light results in energy conversion, aligning with observed physical laws while providing new conceptual insights.</p>
+<p><strong>To Reinterpret Mass-Energy Equivalence:</strong> Offer a novel interpretation of (E=mc^2) within this framework, where mass interacting with the 4D field at <em>c</em> results in energy conversion, aligning with observed physical laws while providing new conceptual insights.</p>
 </li>
 <li>
 <p><strong>To Resolve Fundamental Paradoxes:</strong> Provide explanations for phenomena such as quantum entanglement and wave-function collapse that fit within the classical framework of physics, reducing the reliance on “spooky” interpretations and paradoxes.</p>
@@ -29,7 +30,7 @@
 <p><strong>H1: Stationary Field Substrate:</strong> The universe is permeated by a stationary, four-dimensional field that serves as the substrate for all physical phenomena. This field is uniform, isotropic, and fundamentally underlies both spacetime fabric and particle manifestations.</p>
 </li>
 <li>
-<p><strong>H2: Matter and Energy Interaction:</strong> Matter’s interaction with the 4D field, conceptualized as inward movement at the speed of light, is the mechanism through which mass is converted to energy, and vice versa, offering a new perspective on mass-energy equivalence.</p>
+<p><strong>H2: Matter and Energy Interaction:</strong> Matter’s interaction with the 4D field, conceptualized as inward movement at <em>c</em>, is the mechanism through which mass is converted to energy, and vice versa, offering a new perspective on mass-energy equivalence.</p>
 </li>
 <li>
 <p><strong>H3: Forces as Field Excitations:</strong> Gravitational and electromagnetic forces are emergent properties arising from specific types of excitations within the 4D field, caused by the presence and behavior of mass and charge, respectively.</p>
