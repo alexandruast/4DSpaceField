@@ -41,5 +41,4 @@
 <h4 id="objectives">Objectives</h4>
 <p>The primary objectives of this research are to mathematically formalize the 4D space field model, derive its implications for known physical phenomena, and propose experimental or observational tests that can empirically validate or falsify the model’s predictions. Through this work, we aim to contribute a novel perspective to the ongoing quest for a deeper, more unified understanding of the universe’s fundamental workings.</p>
 <hr>
-<p>This structured approach sets the stage for delving into the specifics of the model, its mathematical formalization, and its potential to address open questions in physics, presented with the clarity and rigor expected in a scholarly publication.</p>
 
