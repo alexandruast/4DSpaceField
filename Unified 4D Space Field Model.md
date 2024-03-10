@@ -18,7 +18,7 @@ By positing a stationary four-dimensional field as the fundamental substrate of 
 <p><strong>To Reinterpret Mass-Energy Equivalence:</strong> Offer a novel interpretation of (E=mc^2) within this framework, where mass interacting with the 4D field at <em>c</em> results in energy conversion, aligning with observed physical laws while providing new conceptual insights.</p>
 </li>
 <li>
-<p><strong>To Eliminate Time Paradoxes:</strong> Within the 4D space field model, matter is in motion at <em>c</em> while the field remains stationary, a premise that inherently eliminates traditional time paradoxes.</p>
+<p><strong>To Eliminate Time Paradoxes:</strong> Within the 4D space field model, inertial matter is in motion at <em>c</em> in all directions in relation to the stationary field, a premise that inherently eliminates traditional time paradoxes.</p>
 </li>
 <li>
 <p><strong>To Explain Weird Quantum Behavior:</strong> Provide explanations for phenomena such as quantum entanglement, quantum tunneling and wave-function collapse that fit within the classical framework of physics, reducing the reliance on “spooky” interpretations and paradoxes.</p>
