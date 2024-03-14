@@ -6,7 +6,7 @@
 <h2 id="a-unified-4d-space-field-model-for-gravity-quantum-mechanics-and-electromagnetic-interactions">A Unified 4D Space Field Model for Gravity, Quantum Mechanics and Electromagnetic Interactions</h2>
 <p><strong>Author:</strong> Alexandru Ast</p>
 <p><strong>Abstract:</strong> This paper introduces the 4D space field model, a novel theoretical framework aimed at unifying the descriptions of gravity and electromagnetism, reconciling aspects of quantum mechanics with general relativity, and offering new insights into the uniformity of fundamental particle properties.<br>
-By positing a stationary four-dimensional field as the fundamental substrate of the universe, through which matter interacts via inward movement at <em>c</em>, this model proposes a unique perspective on mass-energy equivalence, the nature of forces, and the quantum behavior of particles.</p>
+By positing a stationary four-dimensional field as the fundamental substrate of the universe, through which matter interacts via inward movement at the speed of light (<em>c</em>), this model proposes a unique perspective on mass-energy equivalence, the nature of forces, and the quantum behavior of particles.</p>
 <h3 id="i.-introduction">I. Introduction</h3>
 <p>Contemporary physics offers incredibly precise and powerful theories for describing the forces of nature and the behavior of matter down to the smallest scales. However, significant challenges remain, including the reconciliation of general relativity with quantum mechanics, the explanation of dark matter and dark energy, and the unification of the fundamental forces.</p>
 <p>This paper introduces the 4D space field model as a hypothesis aimed at addressing these challenges. The core objectives of this research are:</p>
