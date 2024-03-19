@@ -42,17 +42,20 @@ The foundational hypotheses underpinning the hyperfield model are as follows:
 
 ### Work-In-Progress
 
-- Mass-Energy equivalence
+#### Mass-Energy equivalence
+
 Mass-energy equivalence arises from the interaction of matter with the stationary, hyper-dimensional field that permeates the universe. This interaction is conceptualized not just as matter moving through space, but as engaging with the field in a manner that inherently involves the field's fundamental properties.
 
 Mass as a State of Interaction: Mass is viewed as a manifestation of matter's interaction with the hyperfield. Objects possess mass due to their specific, dynamic engagement with the field, which dictates their inertial and gravitational properties. This interaction is continuous and fundamental, tying the concept of mass directly to the field's structure and dynamics.
 
 Energy as Interaction Dynamics: Energy, in this model, represents the capacity to alter the state of the hyperfield or the configuration of matter's interaction with it. The conversion of mass into energy (and vice-versa) reflects changes in how matter interacts with the hyperfield, with E=mc^2 serving as a quantitative expression of this relationship. The speed of light (c) in this equation underscores the intrinsic role of the hyperfield's properties in governing the interaction dynamics that link mass and energy.
 
-- Gravity
+#### Gravity
+
 Gravity emerges from the modulation of the hyper-dimensional field by mass, leading to a gradient or alteration in the field's properties that affects the trajectory of other masses moving through the field. This interaction creates an effect analogous to attraction, guiding masses toward each other, not through a force transmitted across space, but through their intrinsic movement and interaction within the structured field, reflecting a deterministic, field-based understanding of gravitational phenomena.
 
-- Time Dilation
+#### Time Dilation
+
 Time dilation results from the variance in the rate of interactions within the hyper-dimensional field as influenced by velocity and gravitational potential. Higher velocities or stronger gravitational fields modulate how matter interacts with the hyperfield, effectively altering the rate at which processes are perceived to occur from different reference frames. This variation is not due to the warping of spacetime but is a direct consequence of the field's properties dictating the relative pace of interactions, leading to the observed effects of time dilation.
 
 #### Time Paradoxes
